@@ -1,0 +1,2 @@
+# SpringCamelAggregator
+Spring Camel Aggregator
